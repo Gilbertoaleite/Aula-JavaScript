@@ -1,0 +1,22 @@
+.botao {
+
+
+    background-color: deepskyblue; 
+    color: white; 
+   display: inline-block;
+   line-height: 30px;
+    padding:  0 30px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    text-transform: uppercase;
+    white-space: nowrap;
+    font-weight: 600;
+}
+.fotocomsombra {
+    width: 5%; 
+    border-radius: 50px; 
+    box-shadow: 2px 2px 10px black;
+    margin: 0;
+    margin-bottom: 15px;
+}
